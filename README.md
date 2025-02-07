@@ -13,3 +13,16 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Henrique-Carrijo&show_icons=true&theme=dark#gh-dark-mode-only" />
 </picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Carrijo&layout=compact&theme=dark#gh-dark-mode-only"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Carrijo&layout=compact&theme=dark#gh-dark-mode-only"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-Carrijo&layout=compact&theme=dark#gh-dark-mode-only" />
+</picture>
+
